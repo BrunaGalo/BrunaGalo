@@ -11,6 +11,7 @@ Meu foco é garantir a melhor qualidade de programas e aplicar toda pirâmide de
 <div>
   
   <ul>
+    <li>Linguagens: Javascript, HTML, CSS, Python</li>
   <li>Conhecimento e prática de toda pirâmide de testes de qualidade</li>
   <li>Testes de API e integração: Postman e Insomina</li>
   <li>Automação de Testes: Cypress e Selenium</li>
