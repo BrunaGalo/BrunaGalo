@@ -10,8 +10,14 @@ Meu foco é garantir a melhor qualidade de programas e aplicar toda pirâmide de
 
 <div>
   
-  <img height ="150em" src ="https://github-readme-stats.vercel.app/api?username=BrunaGalo&show_icons=true&theme=tokyonight"  />
-  <img height ="150em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGalo&layout=compact&theme=tokyonight"  />
+  <ul>
+  <li>Conhecimento e prática de toda pirâmide de testes de qualidade</li>
+  <li>Testes de API e integração: Postman e Insomina</li>
+  <li>Automação de Testes: Cypress e Selenium</li>
+  <li>TDD e BDD</li>
+  <li>Conhecimento método de desenvolvimento ágil e Scrum</li>
+  </ul>
+  
  
  </div>
  
