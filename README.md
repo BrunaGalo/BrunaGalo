@@ -13,7 +13,7 @@ Meu foco é garantir a melhor qualidade de programas e aplicar toda pirâmide de
   <ul>
     <li>Linguagens: Javascript, HTML, CSS, Python</li>
   <li>Conhecimento e prática de toda pirâmide de testes de qualidade</li>
-  <li>Testes de API e integração: Postman e Insomina</li>
+  <li>Testes de API e integração: Postman e Insomnia</li>
   <li>Automação de Testes: Cypress e Selenium</li>
   <li>TDD e BDD</li>
   <li>Conhecimento método de desenvolvimento ágil e Scrum</li>
@@ -44,6 +44,16 @@ Meu foco é garantir a melhor qualidade de programas e aplicar toda pirâmide de
 <img align="center" alt="Bruna-postman" height="30" widght="40" scr="https://user-images.githubusercontent.com/92603186/176813119-702b9510-fc70-4a88-a9e8-ce3e0c46fe6e.png"/>
 
 
+</div>
+
+### Studyng:
+
+<div>
+  <ul>
+    <li>Python - Pandas</li>
+    <li>Automação de testes de API - Postman e Cypress</li>
+    <li>Appium</li>
+  </ul>
 </div>
  
  
